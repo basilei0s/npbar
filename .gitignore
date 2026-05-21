@@ -1,0 +1,16 @@
+# Build outputs
+build/
+build-*/
+out/
+
+# IDE / editor
+.vs/
+.vscode/
+*.user
+CMakeUserPresets.json
+
+# OS / scratch
+*.swp
+*.swo
+.DS_Store
+Thumbs.db
